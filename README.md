@@ -2,6 +2,9 @@
 # Overview
 This project analyzes customer churn behavior using an e-commerce dataset. It combines SQL-based exploratory data analysis (EDA) with Power BI modeling and visualization to uncover churn drivers and provide actionable insights.
 
+<img width="1442" height="806" alt="image" src="https://github.com/user-attachments/assets/5706cc91-9e7c-4e31-ac5d-98e2ac267658" />
+
+
 # Objectives
 - Understand customer churn patterns
 - Segment customers based on value
